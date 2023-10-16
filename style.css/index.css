@@ -166,6 +166,8 @@ div{
     font-size: 25px;
 }
 .contactmain {
+    display: block;
+    float: left;
     align-content: center;
     margin-left: 80px;
     margin-right: 80px;
@@ -174,6 +176,7 @@ div{
 
 }
 .contacttext{
+    float: left;
     display: inline-block;
     text-align: center;
     font-size: 35px;
